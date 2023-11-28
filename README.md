@@ -1,6 +1,6 @@
-# smpa_github_actions
+# smpa_github_action
 
-Test webpages generated - 
+Test webpages generated:
   
   
 Sample report:    
