@@ -1,4 +1,4 @@
-# smpa_github_action
+# smpa_github_actions
 
 Test webpages generated:
   
